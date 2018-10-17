@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WeiSuoMoXing" size="3.000000 0.561626" />
+    <ImageTarget name="YingSuBanJingHua" size="2.000000 0.967410" />
+    <ImageTarget name="XiaoYanChiBei" size="2.000000 1.442907" />
+    <ImageTarget name="LingZeXuBei" size="2.000000 2.571712" />
+    <ImageTarget name="ditu" size="2.000000 1.678100" />
+  </Tracking>
+</QCARConfig>

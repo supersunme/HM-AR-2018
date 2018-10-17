@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/DianJi_An.tpsheet
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/AoMen_An_TuJi.tpsheet
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/HuangPu_An_TuJi.tpsheet
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/LingDing_An_TuJi.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/DianJi_An.png
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/AoMen_An_TuJi.png
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/HuangPu_An_TuJi.png
+- Assets/Sprite/2018-10-15虎门销烟池AR素材/NO.5/LingDing_An_TuJi.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
